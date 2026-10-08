@@ -4,8 +4,10 @@ BCA Major Project | MCM DAV College for Women, Chandigarh (Panjab University)
 Technologies Used: VB.NET, MS Access Database (.accdb), OleDb Engine, ADO.NET Architecture
 
 # Project Overview
-Glam Studio is a Windows desktop application built to automate day-to-day operations in salon management. It manages client records, service billing, employee details, shop inventory, and monthly profit/loss reports.
-Note: This GitHub repository serves as a technical documentation archive for the BCA Major Project. It includes database query structures, data flow diagrams (DFD), UI design screens, and extracted VB.NET source code modules directly from the verified project report.
+Glam Studio – Salon Management System is a Windows desktop application developed as my BCA final-year project using VB.NET, ADO.NET, OleDb and MS Access.
+The application is designed to digitize and simplify day-to-day salon operations, including client management, employee management, service billing, shop/inventory management, income and expense tracking, and profit/loss calculation.
+The system uses a database-driven approach with CRUD operations, SQL queries and ADO.NET/OleDb connectivity to manage and retrieve application data efficiently.
+The project demonstrates practical implementation of desktop application development, database management, user interface design and business logic.
 
 # Key Modules and Features
 
