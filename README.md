@@ -41,6 +41,8 @@ The application connects to an MS Access (.accdb) database using Microsoft.ACE.O
 
 | Table Name | Fields and Data Types | Description |
 
+| --- | --- | --- |
+
 | client | ClientID (Number), First_Name (Text), Last_Name (Text), Email (Text), Phone_Number (Number), Address (Text), Pre_Services (Text), Total_Price (Number) | Stores client details and service history |
 
 | employee | EmpID (Number), First_Name (Text), Last_Name (Text), Department (Text), Salary (Number), Email (Text), Phone_Number (Number), Address (Text) | Stores staff details and salary tiers |
