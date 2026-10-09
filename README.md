@@ -73,44 +73,50 @@ The repository includes:
 
 This repository serves as a documentation and source-reference archive for the original BCA project. It includes available source modules, screenshots, database documentation, and the project report. The complete original runnable Visual Studio project is not currently included.
 
-## Application Screenshots
+# System Design – Data Flow Diagram (DFD)
 
-### 1. Login Page
+The following Data Flow Diagram illustrates how data moves between the users, application modules, and database in the Glam Studio Salon Management System.
+
+![Glam Studio Data Flow Diagram](dfd-diagram.png)
+
+# Application Screenshots
+
+# 1. Login Page
 
 ![Glam Studio Login](01-login.png)
 
-### 2. Dashboard
+# 2. Dashboard
 
 ![Glam Studio Dashboard](02-dashboard.png)
 
-### 3. Client Management
+# 3. Client Management
 
 ![Glam Studio Clients](03-clients.png)
 
-### 4. Service Billing
+# 4. Service Billing
 
 ![Glam Studio Billing](04-home-billing.png)
 
-### 5. Employee Management
+# 5. Employee Management
 
 ![Glam Studio Employees](05-employees.png)
 
-### 6. Services
+# 6. Services
 
 ![Glam Studio Services](06-services.png)
 
-### 7. Shop Management
+# 7. Shop Management
 
 ![Glam Studio Shop](07-shop.png)
 
-### 8. Inventory Items
+# 8. Inventory Items
 
 ![Glam Studio Items](08-items.png)
 
-### 9. Records
+# 9. Records
 
 ![Glam Studio Records](09-records.png)
 
-### 10. Expenses
+# 10. Expenses
 
 ![Glam Studio Expenses](10-expenses.png)
