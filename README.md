@@ -49,6 +49,31 @@ The application connects to an MS Access (.accdb) database using Microsoft.ACE.O
 | shop | ItemID (Number), Item_Name (Text), Item_Price (Number) | Catalog of retail beauty products |
 | income | Income_ID (Number), Income (Number), Type (Text), Date (Date/Time), Month (Number), Year (Number) | Tracks service and shop transaction incomes |
 | expense | ID (Number), Expense (Text), Price (Number), Quantity (Number), Total_Amount (Number), Date (Date/Time), Month (Number), Year (Number) | Tracks salon operational and inventory expenses |
+
 # Complete Documentation
-The official project report submitted to Panjab University is archived in the repository root directory:  
-Glam_Studio_Project_Report.pdf
+
+This repository contains the documentation and reference materials for **Glam Studio – Salon Management System**, a Windows desktop application developed as my BCA final-year project.
+
+The repository includes:
+
+* **Project Report:** Detailed project description, objectives, requirements, system design, implementation, and testing.
+* **Source Code Documentation:** Available VB.NET source modules extracted from the original project report.
+* **Application Screenshots:** Visual demonstrations of the application's interface and different modules.
+* **Data Flow Diagram (DFD):** Illustrates the flow of information within the system.
+* **Database Documentation:** Details of the database structure and data management.
+* **Module Documentation:** Explanation of client management, employee management, billing, services, inventory, income and expense tracking, and profit/loss calculation.
+
+# Technology Stack
+
+* **Programming Language:** VB.NET
+* **Database:** Microsoft Access
+* **Database Connectivity:** ADO.NET and OleDb
+
+# Project Status
+
+This repository serves as a documentation and source-reference archive for the original BCA project. It includes available source modules, screenshots, database documentation, and the project report. The complete original runnable Visual Studio project is not currently included.
+
+# Project Purpose
+
+The objective of Glam Studio is to simplify salon operations by organizing client records, employee information, service billing, inventory, and financial records through a desktop-based management system.
+
