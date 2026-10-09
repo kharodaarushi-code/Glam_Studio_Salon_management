@@ -57,7 +57,7 @@ This repository contains the documentation and reference materials for **Glam St
 The repository includes:
 
 * **Project Report:** Detailed project description, objectives, requirements, system design, implementation, and testing.
-* **Source Code Documentation:** Available VB.NET source modules extracted from the original project report.
+* **Source Code Documentation:** Selected VB.NET source modules available in the src folder.
 * **Application Screenshots:** Visual demonstrations of the application's interface and different modules.
 * **Data Flow Diagram (DFD):** Illustrates the flow of information within the system.
 * **Database Documentation:** Details of the database structure and data management.
@@ -72,8 +72,4 @@ The repository includes:
 # Project Status
 
 This repository serves as a documentation and source-reference archive for the original BCA project. It includes available source modules, screenshots, database documentation, and the project report. The complete original runnable Visual Studio project is not currently included.
-
-# Project Purpose
-
-The objective of Glam Studio is to simplify salon operations by organizing client records, employee information, service billing, inventory, and financial records through a desktop-based management system.
 
