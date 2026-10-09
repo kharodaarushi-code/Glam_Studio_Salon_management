@@ -120,3 +120,10 @@ The following Data Flow Diagram illustrates how data moves between the users, ap
 # 10. Expenses
 
 ![Glam Studio Expenses](10-expenses.png)
+
+# Conclusion
+
+Glam Studio – Salon Management System was developed as my BCA final-year project to simplify salon operations through desktop application development and database management. The project helped me gain practical experience with VB.NET, ADO.NET, OleDb, SQL queries, CRUD operations, and Microsoft Access.
+
+This repository contains project documentation, application screenshots, the DFD, database details, and selected VB.NET source modules.
+
